@@ -1,0 +1,30 @@
+Bonjour
+ceci est le fichier de prise en main de ce projet. 
+Il decrit et expliquue comment le tester
+
+**************************************DESCRIPTION**********************************
+
+L'objet de se projet est réalisation d'une API permettant la location de véhicule
+
+Il s'agit d'une api qui permet de gerer la location de vehicules. 
+On peut donc enregister, modifier, supprimer des vehicules et des contrats de location
+
+********************************FIN DE LA DESCRIPTION******************************
+
+
+***********************************L'INSTALLATION**********************************
+D'ABORD
+apres avoir telecharger ou cloner le present fichier
+vous devez creer une base de données MySql avec PhpMyAdmin (de préference)
+Donner le nom "projet" a cette base de données avec toutes les options de 
+connexion décrite dans le fichier "ormconfig.json"
+
+ENSUITE
+ouvrez votre terminale dans le dossier du projet et exécutez 
+la commande suivante : "npm install"
+
+ENFIN 
+toujours avec le terminal ouvert dans le dossier du projet
+exécutez la commande suivante : "npm run start"
+
+******************************FIN DE L'INSTALLATION*********************************
